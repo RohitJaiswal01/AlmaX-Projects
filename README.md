@@ -52,9 +52,9 @@ Some potential insights from this project could include:
 
 The analysis involves the following Excel functions and tools:
 - *POWER QUERY EDITOR* for data merging.
-- *COUNTIF, **SUMIF, **AVERAGEIF* for conditional aggregations.
+- *COUNTIF, SUMIF, AVERAGEIF* for conditional aggregations.
 - *Pivot Tables* for data summarization.
-- *Scatter plots, **bar charts, and **pivot charts* for visualizations.
+- *Scatter plots, *bar charts, and pivot charts* for visualizations.
 - *Slicers and dropdowns* for interactivity in the dashboard.
 
 ## Conclusion
