@@ -1,5 +1,6 @@
 # Sky Analytics: Navigating the Complexities of Airline and Airport Operations
-![Screenshot 2024-10-22 225035](https://github.com/user-attachments/assets/1535c360-f030-4ed3-a803-ce6e9c3d5c06)
+![Screenshot 2024-11-13 225343](https://github.com/user-attachments/assets/6980f4fa-e034-4048-9e66-211dc39a857f)
+
 
 ## Overview
 
